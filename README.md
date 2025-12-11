@@ -2,8 +2,8 @@
 
 Simple Light/Dark mode toggle using HTML, CSS, and JavaScript.
 
-Features
+## **Features**
 
-Switch between light and dark themes
+- **Switch between light and dark themes**
 
-Theme stays saved with localStorage
+- **Theme stays saved with localStorage**
