@@ -169,7 +169,8 @@
    display: flex;
    justify-content: center;
    gap: 3px;
-   margin-top: -1.3rem;
+   font-size: 14px;
+   margin-top: -1.2rem;
    margin-left: 2px;
    display: inline-flex;
    align-items: center;
@@ -179,11 +180,10 @@
    color: #444;
    padding: 4px 12px;
    cursor: pointer;
-   transition: 0.2s ease-in-out;
+   transition: 0.1s ease-in-out;
  }
 
  .suggestBtn:hover {
-   background: #f0f4ff;
-   border-color: #0d6efd;
-   color: #fffdfd;
+    background-color: #f0f4ff !important;
+    color: black;
  }
